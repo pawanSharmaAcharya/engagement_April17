@@ -1,0 +1,1 @@
+after using git checkout origin/main  and seeing wheater the changes relect on the remote side.
