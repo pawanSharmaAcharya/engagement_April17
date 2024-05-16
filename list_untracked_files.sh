@@ -59,7 +59,7 @@ process_batch() {
         count=$((count + 1))
 
         # Stop after adding 10 files
-        if [ $count -ge 15 ]; then
+        if [ $count -ge 20 ]; then
             break
         fi
     done
